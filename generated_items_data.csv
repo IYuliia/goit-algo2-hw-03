@@ -1,0 +1,1001 @@
+ID,Price,Name,Category
+1,27.21,Product 1,Sports
+2,50.31,Product 2,Sports
+3,15.63,Product 3,Clothing
+4,38.81,Product 4,Sports
+5,54.6,Product 5,Sports
+6,24.28,Product 6,Home Goods
+7,86.83,Product 7,Electronics
+8,9.86,Product 8,Home Goods
+9,61.29,Product 9,Electronics
+10,66.58,Product 10,Toys
+11,33.94,Product 11,Clothing
+12,37.37,Product 12,Clothing
+13,97.91,Product 13,Home Goods
+14,11.27,Product 14,Clothing
+15,24.85,Product 15,Sports
+16,51.57,Product 16,Sports
+17,8.91,Product 17,Sports
+18,35.8,Product 18,Home Goods
+19,60.07,Product 19,Toys
+20,15.74,Product 20,Home Goods
+21,94.76,Product 21,Toys
+22,29.2,Product 22,Toys
+23,7.25,Product 23,Sports
+24,43.25,Product 24,Clothing
+25,91.75,Product 25,Sports
+26,69.56,Product 26,Home Goods
+27,48.52,Product 27,Toys
+28,31.44,Product 28,Clothing
+29,67.43,Product 29,Toys
+30,45.67,Product 30,Sports
+31,13.1,Product 31,Electronics
+32,7.18,Product 32,Electronics
+33,91.04,Product 33,Toys
+34,58.37,Product 34,Toys
+35,38.46,Product 35,Home Goods
+36,85.04,Product 36,Electronics
+37,42.64,Product 37,Clothing
+38,54.91,Product 38,Home Goods
+39,85.78,Product 39,Toys
+40,10.56,Product 40,Clothing
+41,30.65,Product 41,Toys
+42,18.45,Product 42,Sports
+43,20.08,Product 43,Home Goods
+44,31.01,Product 44,Home Goods
+45,98.49,Product 45,Sports
+46,49.76,Product 46,Toys
+47,58.27,Product 47,Electronics
+48,54.39,Product 48,Home Goods
+49,70.19,Product 49,Home Goods
+50,84.56,Product 50,Toys
+51,30.16,Product 51,Sports
+52,20.94,Product 52,Sports
+53,26.58,Product 53,Sports
+54,79.67,Product 54,Toys
+55,11.05,Product 55,Electronics
+56,46.81,Product 56,Electronics
+57,3.48,Product 57,Electronics
+58,21.55,Product 58,Sports
+59,51.21,Product 59,Electronics
+60,52.62,Product 60,Clothing
+61,98.01,Product 61,Home Goods
+62,96.5,Product 62,Clothing
+63,77.28,Product 63,Clothing
+64,73.37,Product 64,Toys
+65,36.85,Product 65,Home Goods
+66,17.23,Product 66,Toys
+67,46.74,Product 67,Clothing
+68,58.18,Product 68,Home Goods
+69,87.76,Product 69,Toys
+70,2.98,Product 70,Home Goods
+71,59.53,Product 71,Electronics
+72,58.34,Product 72,Home Goods
+73,60.27,Product 73,Electronics
+74,35.22,Product 74,Home Goods
+75,67.94,Product 75,Home Goods
+76,57.09,Product 76,Clothing
+77,92.27,Product 77,Sports
+78,24.77,Product 78,Electronics
+79,14.74,Product 79,Home Goods
+80,19.74,Product 80,Electronics
+81,40.71,Product 81,Electronics
+82,32.39,Product 82,Toys
+83,60.34,Product 83,Electronics
+84,94.99,Product 84,Sports
+85,78.74,Product 85,Sports
+86,44.83,Product 86,Clothing
+87,74.27,Product 87,Clothing
+88,38.56,Product 88,Electronics
+89,71.63,Product 89,Toys
+90,22.24,Product 90,Sports
+91,88.27,Product 91,Toys
+92,75.23,Product 92,Clothing
+93,80.77,Product 93,Sports
+94,31.91,Product 94,Toys
+95,61.4,Product 95,Toys
+96,45.25,Product 96,Sports
+97,30.38,Product 97,Electronics
+98,97.17,Product 98,Electronics
+99,51.7,Product 99,Electronics
+100,7.74,Product 100,Clothing
+101,37.64,Product 101,Home Goods
+102,63.71,Product 102,Home Goods
+103,67.35,Product 103,Clothing
+104,26.9,Product 104,Toys
+105,66.88,Product 105,Electronics
+106,32.63,Product 106,Home Goods
+107,4.44,Product 107,Toys
+108,69.21,Product 108,Electronics
+109,2.01,Product 109,Electronics
+110,78.0,Product 110,Electronics
+111,13.24,Product 111,Sports
+112,16.0,Product 112,Toys
+113,29.22,Product 113,Electronics
+114,81.09,Product 114,Toys
+115,10.98,Product 115,Electronics
+116,97.76,Product 116,Toys
+117,65.86,Product 117,Toys
+118,5.72,Product 118,Toys
+119,35.32,Product 119,Sports
+120,47.23,Product 120,Clothing
+121,64.28,Product 121,Clothing
+122,8.49,Product 122,Home Goods
+123,10.65,Product 123,Electronics
+124,34.84,Product 124,Clothing
+125,14.67,Product 125,Electronics
+126,27.67,Product 126,Clothing
+127,8.62,Product 127,Sports
+128,47.59,Product 128,Home Goods
+129,53.06,Product 129,Toys
+130,69.43,Product 130,Clothing
+131,72.31,Product 131,Toys
+132,53.5,Product 132,Electronics
+133,91.06,Product 133,Sports
+134,76.43,Product 134,Clothing
+135,77.96,Product 135,Electronics
+136,43.22,Product 136,Toys
+137,50.19,Product 137,Electronics
+138,49.19,Product 138,Clothing
+139,31.87,Product 139,Home Goods
+140,11.34,Product 140,Electronics
+141,98.73,Product 141,Toys
+142,6.08,Product 142,Toys
+143,34.33,Product 143,Electronics
+144,86.64,Product 144,Home Goods
+145,86.57,Product 145,Home Goods
+146,69.17,Product 146,Toys
+147,58.6,Product 147,Home Goods
+148,33.73,Product 148,Clothing
+149,67.62,Product 149,Clothing
+150,98.1,Product 150,Home Goods
+151,58.44,Product 151,Home Goods
+152,40.41,Product 152,Sports
+153,78.23,Product 153,Toys
+154,1.98,Product 154,Toys
+155,70.01,Product 155,Sports
+156,32.92,Product 156,Clothing
+157,73.35,Product 157,Home Goods
+158,77.67,Product 158,Toys
+159,16.37,Product 159,Sports
+160,82.86,Product 160,Clothing
+161,44.45,Product 161,Home Goods
+162,79.89,Product 162,Sports
+163,81.34,Product 163,Sports
+164,60.74,Product 164,Home Goods
+165,47.69,Product 165,Electronics
+166,65.68,Product 166,Sports
+167,65.86,Product 167,Toys
+168,78.34,Product 168,Sports
+169,70.11,Product 169,Sports
+170,37.39,Product 170,Sports
+171,88.06,Product 171,Toys
+172,89.22,Product 172,Clothing
+173,24.64,Product 173,Sports
+174,5.74,Product 174,Electronics
+175,39.48,Product 175,Home Goods
+176,96.99,Product 176,Electronics
+177,15.98,Product 177,Sports
+178,17.36,Product 178,Electronics
+179,8.38,Product 179,Home Goods
+180,25.63,Product 180,Toys
+181,11.92,Product 181,Home Goods
+182,5.38,Product 182,Clothing
+183,65.95,Product 183,Clothing
+184,51.09,Product 184,Electronics
+185,90.11,Product 185,Home Goods
+186,76.67,Product 186,Sports
+187,30.63,Product 187,Sports
+188,69.78,Product 188,Toys
+189,1.95,Product 189,Sports
+190,92.24,Product 190,Toys
+191,62.74,Product 191,Electronics
+192,31.09,Product 192,Electronics
+193,55.7,Product 193,Home Goods
+194,31.38,Product 194,Clothing
+195,83.34,Product 195,Sports
+196,47.97,Product 196,Toys
+197,3.01,Product 197,Clothing
+198,21.58,Product 198,Clothing
+199,81.49,Product 199,Electronics
+200,64.18,Product 200,Sports
+201,8.88,Product 201,Toys
+202,39.42,Product 202,Home Goods
+203,98.66,Product 203,Electronics
+204,46.9,Product 204,Sports
+205,80.64,Product 205,Home Goods
+206,85.17,Product 206,Electronics
+207,90.21,Product 207,Home Goods
+208,96.8,Product 208,Home Goods
+209,4.17,Product 209,Sports
+210,47.04,Product 210,Toys
+211,61.88,Product 211,Electronics
+212,84.95,Product 212,Home Goods
+213,46.76,Product 213,Sports
+214,51.7,Product 214,Electronics
+215,6.35,Product 215,Electronics
+216,69.24,Product 216,Clothing
+217,50.06,Product 217,Home Goods
+218,61.15,Product 218,Home Goods
+219,7.35,Product 219,Clothing
+220,63.16,Product 220,Home Goods
+221,47.26,Product 221,Sports
+222,27.81,Product 222,Clothing
+223,94.15,Product 223,Electronics
+224,92.18,Product 224,Electronics
+225,14.83,Product 225,Electronics
+226,14.07,Product 226,Clothing
+227,90.71,Product 227,Clothing
+228,12.12,Product 228,Clothing
+229,12.26,Product 229,Electronics
+230,23.06,Product 230,Clothing
+231,13.9,Product 231,Home Goods
+232,44.92,Product 232,Electronics
+233,40.22,Product 233,Sports
+234,27.94,Product 234,Home Goods
+235,3.28,Product 235,Toys
+236,23.54,Product 236,Clothing
+237,40.84,Product 237,Toys
+238,3.14,Product 238,Sports
+239,99.85,Product 239,Home Goods
+240,74.22,Product 240,Electronics
+241,75.33,Product 241,Toys
+242,77.39,Product 242,Electronics
+243,79.96,Product 243,Clothing
+244,90.54,Product 244,Toys
+245,69.97,Product 245,Home Goods
+246,47.0,Product 246,Clothing
+247,85.1,Product 247,Clothing
+248,2.95,Product 248,Clothing
+249,96.02,Product 249,Clothing
+250,51.99,Product 250,Sports
+251,49.96,Product 251,Electronics
+252,11.07,Product 252,Home Goods
+253,66.21,Product 253,Sports
+254,59.95,Product 254,Home Goods
+255,98.48,Product 255,Sports
+256,20.61,Product 256,Clothing
+257,85.14,Product 257,Sports
+258,27.19,Product 258,Sports
+259,9.46,Product 259,Home Goods
+260,92.01,Product 260,Electronics
+261,54.58,Product 261,Clothing
+262,84.08,Product 262,Clothing
+263,33.32,Product 263,Electronics
+264,49.21,Product 264,Sports
+265,45.91,Product 265,Sports
+266,33.05,Product 266,Home Goods
+267,50.45,Product 267,Toys
+268,66.05,Product 268,Sports
+269,82.04,Product 269,Sports
+270,63.69,Product 270,Sports
+271,4.64,Product 271,Home Goods
+272,2.84,Product 272,Toys
+273,63.83,Product 273,Toys
+274,33.32,Product 274,Electronics
+275,38.49,Product 275,Sports
+276,31.92,Product 276,Sports
+277,87.85,Product 277,Clothing
+278,39.77,Product 278,Sports
+279,34.17,Product 279,Home Goods
+280,45.25,Product 280,Sports
+281,60.66,Product 281,Clothing
+282,34.61,Product 282,Clothing
+283,65.19,Product 283,Toys
+284,17.47,Product 284,Clothing
+285,14.48,Product 285,Electronics
+286,31.95,Product 286,Toys
+287,82.86,Product 287,Toys
+288,46.34,Product 288,Clothing
+289,90.46,Product 289,Home Goods
+290,43.78,Product 290,Toys
+291,82.34,Product 291,Home Goods
+292,44.59,Product 292,Sports
+293,82.73,Product 293,Clothing
+294,79.33,Product 294,Toys
+295,59.21,Product 295,Clothing
+296,79.66,Product 296,Toys
+297,53.47,Product 297,Toys
+298,18.27,Product 298,Toys
+299,62.72,Product 299,Home Goods
+300,50.59,Product 300,Home Goods
+301,47.69,Product 301,Electronics
+302,32.86,Product 302,Clothing
+303,90.62,Product 303,Toys
+304,57.17,Product 304,Home Goods
+305,14.2,Product 305,Home Goods
+306,89.28,Product 306,Clothing
+307,84.06,Product 307,Home Goods
+308,13.71,Product 308,Electronics
+309,35.96,Product 309,Electronics
+310,17.77,Product 310,Toys
+311,8.81,Product 311,Clothing
+312,36.59,Product 312,Sports
+313,58.93,Product 313,Electronics
+314,92.04,Product 314,Toys
+315,7.19,Product 315,Electronics
+316,63.31,Product 316,Electronics
+317,1.59,Product 317,Home Goods
+318,21.69,Product 318,Home Goods
+319,59.67,Product 319,Electronics
+320,41.93,Product 320,Clothing
+321,67.18,Product 321,Clothing
+322,34.34,Product 322,Toys
+323,16.98,Product 323,Electronics
+324,44.24,Product 324,Clothing
+325,37.25,Product 325,Toys
+326,46.03,Product 326,Sports
+327,71.9,Product 327,Toys
+328,53.48,Product 328,Clothing
+329,14.03,Product 329,Clothing
+330,68.14,Product 330,Clothing
+331,76.32,Product 331,Sports
+332,51.36,Product 332,Toys
+333,81.46,Product 333,Home Goods
+334,45.53,Product 334,Sports
+335,52.43,Product 335,Home Goods
+336,86.33,Product 336,Sports
+337,47.42,Product 337,Clothing
+338,96.98,Product 338,Toys
+339,36.66,Product 339,Clothing
+340,58.29,Product 340,Sports
+341,48.75,Product 341,Toys
+342,37.52,Product 342,Toys
+343,96.82,Product 343,Electronics
+344,81.69,Product 344,Sports
+345,32.88,Product 345,Toys
+346,56.83,Product 346,Home Goods
+347,69.08,Product 347,Electronics
+348,43.68,Product 348,Sports
+349,78.88,Product 349,Clothing
+350,43.03,Product 350,Toys
+351,20.06,Product 351,Toys
+352,54.33,Product 352,Toys
+353,76.24,Product 353,Electronics
+354,14.05,Product 354,Sports
+355,91.47,Product 355,Electronics
+356,50.91,Product 356,Sports
+357,28.78,Product 357,Clothing
+358,19.25,Product 358,Electronics
+359,91.06,Product 359,Sports
+360,14.11,Product 360,Toys
+361,83.35,Product 361,Electronics
+362,60.04,Product 362,Electronics
+363,64.67,Product 363,Clothing
+364,31.42,Product 364,Electronics
+365,91.87,Product 365,Sports
+366,15.45,Product 366,Toys
+367,38.46,Product 367,Electronics
+368,88.15,Product 368,Sports
+369,74.08,Product 369,Home Goods
+370,75.25,Product 370,Home Goods
+371,8.47,Product 371,Toys
+372,19.79,Product 372,Toys
+373,15.68,Product 373,Electronics
+374,95.79,Product 374,Home Goods
+375,38.86,Product 375,Toys
+376,10.7,Product 376,Sports
+377,42.16,Product 377,Home Goods
+378,42.94,Product 378,Electronics
+379,56.5,Product 379,Sports
+380,65.8,Product 380,Toys
+381,53.33,Product 381,Electronics
+382,64.47,Product 382,Electronics
+383,33.99,Product 383,Sports
+384,90.79,Product 384,Electronics
+385,29.68,Product 385,Sports
+386,22.6,Product 386,Clothing
+387,52.99,Product 387,Toys
+388,57.51,Product 388,Sports
+389,64.37,Product 389,Toys
+390,30.12,Product 390,Toys
+391,99.73,Product 391,Sports
+392,64.54,Product 392,Electronics
+393,63.76,Product 393,Sports
+394,99.56,Product 394,Sports
+395,57.02,Product 395,Electronics
+396,75.25,Product 396,Electronics
+397,33.93,Product 397,Sports
+398,84.77,Product 398,Home Goods
+399,49.82,Product 399,Sports
+400,45.89,Product 400,Clothing
+401,23.18,Product 401,Electronics
+402,25.46,Product 402,Clothing
+403,53.05,Product 403,Sports
+404,98.61,Product 404,Sports
+405,14.65,Product 405,Sports
+406,93.74,Product 406,Clothing
+407,72.14,Product 407,Home Goods
+408,26.53,Product 408,Sports
+409,5.99,Product 409,Electronics
+410,45.21,Product 410,Electronics
+411,67.25,Product 411,Clothing
+412,54.59,Product 412,Home Goods
+413,40.83,Product 413,Toys
+414,69.11,Product 414,Sports
+415,86.68,Product 415,Clothing
+416,89.58,Product 416,Toys
+417,52.98,Product 417,Electronics
+418,95.58,Product 418,Clothing
+419,75.54,Product 419,Electronics
+420,56.79,Product 420,Electronics
+421,77.88,Product 421,Sports
+422,43.97,Product 422,Toys
+423,92.76,Product 423,Sports
+424,22.63,Product 424,Clothing
+425,88.04,Product 425,Toys
+426,27.36,Product 426,Sports
+427,62.55,Product 427,Electronics
+428,92.49,Product 428,Home Goods
+429,97.83,Product 429,Home Goods
+430,72.58,Product 430,Toys
+431,42.58,Product 431,Clothing
+432,64.95,Product 432,Home Goods
+433,87.67,Product 433,Sports
+434,4.37,Product 434,Electronics
+435,7.08,Product 435,Toys
+436,75.99,Product 436,Sports
+437,53.66,Product 437,Home Goods
+438,18.41,Product 438,Toys
+439,45.1,Product 439,Toys
+440,6.91,Product 440,Toys
+441,6.14,Product 441,Home Goods
+442,85.68,Product 442,Clothing
+443,45.98,Product 443,Toys
+444,36.52,Product 444,Home Goods
+445,43.81,Product 445,Clothing
+446,10.1,Product 446,Electronics
+447,81.99,Product 447,Toys
+448,18.22,Product 448,Toys
+449,84.45,Product 449,Home Goods
+450,96.54,Product 450,Toys
+451,72.07,Product 451,Sports
+452,22.27,Product 452,Toys
+453,14.24,Product 453,Toys
+454,18.5,Product 454,Home Goods
+455,12.09,Product 455,Electronics
+456,82.46,Product 456,Sports
+457,29.25,Product 457,Sports
+458,68.79,Product 458,Toys
+459,33.57,Product 459,Home Goods
+460,51.55,Product 460,Home Goods
+461,73.79,Product 461,Electronics
+462,12.36,Product 462,Clothing
+463,65.47,Product 463,Clothing
+464,93.23,Product 464,Clothing
+465,45.85,Product 465,Clothing
+466,38.26,Product 466,Toys
+467,30.44,Product 467,Clothing
+468,32.43,Product 468,Electronics
+469,46.83,Product 469,Sports
+470,7.23,Product 470,Home Goods
+471,9.3,Product 471,Clothing
+472,14.97,Product 472,Sports
+473,55.2,Product 473,Sports
+474,48.9,Product 474,Electronics
+475,54.73,Product 475,Electronics
+476,44.87,Product 476,Toys
+477,63.08,Product 477,Electronics
+478,45.65,Product 478,Clothing
+479,9.44,Product 479,Sports
+480,49.46,Product 480,Electronics
+481,66.04,Product 481,Home Goods
+482,59.8,Product 482,Home Goods
+483,81.39,Product 483,Home Goods
+484,72.6,Product 484,Clothing
+485,8.53,Product 485,Sports
+486,31.55,Product 486,Home Goods
+487,27.83,Product 487,Electronics
+488,25.8,Product 488,Clothing
+489,64.93,Product 489,Toys
+490,16.06,Product 490,Sports
+491,99.22,Product 491,Electronics
+492,42.14,Product 492,Home Goods
+493,74.69,Product 493,Home Goods
+494,31.89,Product 494,Electronics
+495,70.68,Product 495,Sports
+496,9.5,Product 496,Toys
+497,77.5,Product 497,Toys
+498,47.59,Product 498,Electronics
+499,29.9,Product 499,Sports
+500,16.86,Product 500,Home Goods
+501,98.89,Product 501,Sports
+502,55.85,Product 502,Electronics
+503,45.3,Product 503,Electronics
+504,81.51,Product 504,Clothing
+505,99.28,Product 505,Toys
+506,27.48,Product 506,Home Goods
+507,72.96,Product 507,Electronics
+508,83.02,Product 508,Electronics
+509,99.15,Product 509,Clothing
+510,71.07,Product 510,Clothing
+511,77.12,Product 511,Electronics
+512,76.12,Product 512,Electronics
+513,68.17,Product 513,Electronics
+514,78.13,Product 514,Clothing
+515,62.37,Product 515,Electronics
+516,73.7,Product 516,Home Goods
+517,83.89,Product 517,Home Goods
+518,40.79,Product 518,Home Goods
+519,51.43,Product 519,Clothing
+520,84.42,Product 520,Electronics
+521,21.72,Product 521,Sports
+522,92.45,Product 522,Clothing
+523,74.72,Product 523,Toys
+524,18.17,Product 524,Toys
+525,15.89,Product 525,Clothing
+526,87.01,Product 526,Home Goods
+527,70.49,Product 527,Clothing
+528,31.21,Product 528,Clothing
+529,43.55,Product 529,Sports
+530,90.89,Product 530,Home Goods
+531,47.47,Product 531,Electronics
+532,76.8,Product 532,Sports
+533,40.29,Product 533,Sports
+534,95.55,Product 534,Clothing
+535,10.88,Product 535,Electronics
+536,68.93,Product 536,Clothing
+537,51.72,Product 537,Electronics
+538,83.24,Product 538,Sports
+539,35.02,Product 539,Home Goods
+540,79.59,Product 540,Toys
+541,67.53,Product 541,Sports
+542,3.7,Product 542,Clothing
+543,15.76,Product 543,Clothing
+544,2.88,Product 544,Toys
+545,54.68,Product 545,Clothing
+546,65.56,Product 546,Toys
+547,32.11,Product 547,Toys
+548,69.65,Product 548,Sports
+549,35.69,Product 549,Toys
+550,92.84,Product 550,Home Goods
+551,63.89,Product 551,Toys
+552,62.46,Product 552,Electronics
+553,86.07,Product 553,Toys
+554,70.09,Product 554,Clothing
+555,95.01,Product 555,Electronics
+556,61.74,Product 556,Electronics
+557,21.39,Product 557,Toys
+558,74.14,Product 558,Sports
+559,6.38,Product 559,Sports
+560,33.43,Product 560,Home Goods
+561,2.04,Product 561,Sports
+562,91.21,Product 562,Sports
+563,91.9,Product 563,Electronics
+564,19.72,Product 564,Sports
+565,92.19,Product 565,Electronics
+566,69.47,Product 566,Home Goods
+567,77.24,Product 567,Sports
+568,66.21,Product 568,Toys
+569,50.27,Product 569,Electronics
+570,2.15,Product 570,Toys
+571,17.46,Product 571,Home Goods
+572,60.52,Product 572,Clothing
+573,99.26,Product 573,Clothing
+574,67.23,Product 574,Sports
+575,32.56,Product 575,Sports
+576,17.19,Product 576,Toys
+577,93.29,Product 577,Toys
+578,47.33,Product 578,Home Goods
+579,9.71,Product 579,Sports
+580,17.87,Product 580,Home Goods
+581,22.1,Product 581,Electronics
+582,26.78,Product 582,Sports
+583,38.3,Product 583,Home Goods
+584,8.32,Product 584,Sports
+585,35.34,Product 585,Sports
+586,12.02,Product 586,Home Goods
+587,45.8,Product 587,Sports
+588,30.45,Product 588,Home Goods
+589,32.45,Product 589,Toys
+590,30.37,Product 590,Electronics
+591,62.97,Product 591,Clothing
+592,80.31,Product 592,Toys
+593,25.42,Product 593,Sports
+594,98.27,Product 594,Sports
+595,80.99,Product 595,Sports
+596,14.73,Product 596,Toys
+597,64.22,Product 597,Clothing
+598,74.86,Product 598,Clothing
+599,88.2,Product 599,Sports
+600,83.45,Product 600,Electronics
+601,13.15,Product 601,Electronics
+602,74.75,Product 602,Electronics
+603,8.09,Product 603,Sports
+604,85.4,Product 604,Sports
+605,88.46,Product 605,Toys
+606,77.1,Product 606,Sports
+607,21.04,Product 607,Electronics
+608,95.18,Product 608,Toys
+609,96.53,Product 609,Home Goods
+610,59.95,Product 610,Clothing
+611,22.63,Product 611,Home Goods
+612,21.57,Product 612,Electronics
+613,25.03,Product 613,Clothing
+614,62.57,Product 614,Clothing
+615,26.85,Product 615,Clothing
+616,10.54,Product 616,Sports
+617,67.25,Product 617,Toys
+618,36.56,Product 618,Electronics
+619,28.63,Product 619,Clothing
+620,10.5,Product 620,Sports
+621,50.1,Product 621,Electronics
+622,69.91,Product 622,Electronics
+623,78.13,Product 623,Sports
+624,67.96,Product 624,Home Goods
+625,85.79,Product 625,Sports
+626,75.55,Product 626,Electronics
+627,12.48,Product 627,Home Goods
+628,21.17,Product 628,Clothing
+629,26.16,Product 629,Clothing
+630,59.85,Product 630,Home Goods
+631,10.38,Product 631,Home Goods
+632,27.23,Product 632,Sports
+633,82.88,Product 633,Toys
+634,40.78,Product 634,Sports
+635,93.94,Product 635,Sports
+636,60.04,Product 636,Sports
+637,77.4,Product 637,Sports
+638,72.17,Product 638,Clothing
+639,35.55,Product 639,Home Goods
+640,35.41,Product 640,Clothing
+641,22.53,Product 641,Sports
+642,7.98,Product 642,Clothing
+643,64.8,Product 643,Home Goods
+644,42.44,Product 644,Clothing
+645,86.18,Product 645,Electronics
+646,56.8,Product 646,Clothing
+647,98.91,Product 647,Home Goods
+648,9.96,Product 648,Toys
+649,61.8,Product 649,Clothing
+650,96.69,Product 650,Home Goods
+651,67.05,Product 651,Toys
+652,3.07,Product 652,Toys
+653,78.84,Product 653,Toys
+654,43.48,Product 654,Clothing
+655,42.08,Product 655,Electronics
+656,78.81,Product 656,Home Goods
+657,55.51,Product 657,Sports
+658,59.7,Product 658,Clothing
+659,77.69,Product 659,Sports
+660,21.23,Product 660,Electronics
+661,48.53,Product 661,Home Goods
+662,57.97,Product 662,Clothing
+663,62.77,Product 663,Home Goods
+664,6.35,Product 664,Sports
+665,47.97,Product 665,Toys
+666,90.98,Product 666,Sports
+667,83.76,Product 667,Clothing
+668,61.4,Product 668,Home Goods
+669,90.32,Product 669,Clothing
+670,94.32,Product 670,Electronics
+671,55.17,Product 671,Electronics
+672,66.58,Product 672,Toys
+673,45.4,Product 673,Toys
+674,57.54,Product 674,Home Goods
+675,50.73,Product 675,Home Goods
+676,80.62,Product 676,Home Goods
+677,30.22,Product 677,Sports
+678,33.82,Product 678,Toys
+679,11.28,Product 679,Home Goods
+680,75.85,Product 680,Toys
+681,50.52,Product 681,Toys
+682,64.1,Product 682,Sports
+683,63.29,Product 683,Toys
+684,64.59,Product 684,Toys
+685,58.96,Product 685,Home Goods
+686,31.7,Product 686,Sports
+687,33.48,Product 687,Home Goods
+688,76.63,Product 688,Toys
+689,40.59,Product 689,Home Goods
+690,17.01,Product 690,Toys
+691,97.72,Product 691,Electronics
+692,8.82,Product 692,Home Goods
+693,37.26,Product 693,Toys
+694,83.68,Product 694,Home Goods
+695,12.6,Product 695,Toys
+696,54.82,Product 696,Clothing
+697,68.65,Product 697,Electronics
+698,96.4,Product 698,Home Goods
+699,84.33,Product 699,Home Goods
+700,29.68,Product 700,Home Goods
+701,90.51,Product 701,Sports
+702,76.23,Product 702,Sports
+703,72.91,Product 703,Sports
+704,8.9,Product 704,Home Goods
+705,91.38,Product 705,Sports
+706,79.68,Product 706,Toys
+707,35.67,Product 707,Electronics
+708,22.53,Product 708,Home Goods
+709,23.81,Product 709,Home Goods
+710,1.54,Product 710,Electronics
+711,41.79,Product 711,Home Goods
+712,49.76,Product 712,Toys
+713,85.97,Product 713,Clothing
+714,31.33,Product 714,Electronics
+715,28.24,Product 715,Sports
+716,8.23,Product 716,Home Goods
+717,2.54,Product 717,Electronics
+718,37.61,Product 718,Electronics
+719,19.51,Product 719,Clothing
+720,1.01,Product 720,Sports
+721,72.17,Product 721,Clothing
+722,57.69,Product 722,Clothing
+723,11.5,Product 723,Home Goods
+724,37.0,Product 724,Home Goods
+725,20.37,Product 725,Toys
+726,7.79,Product 726,Toys
+727,16.25,Product 727,Sports
+728,44.76,Product 728,Sports
+729,5.94,Product 729,Electronics
+730,51.58,Product 730,Electronics
+731,72.02,Product 731,Electronics
+732,33.0,Product 732,Clothing
+733,42.78,Product 733,Home Goods
+734,82.93,Product 734,Electronics
+735,57.01,Product 735,Clothing
+736,48.07,Product 736,Home Goods
+737,68.59,Product 737,Toys
+738,94.07,Product 738,Sports
+739,3.6,Product 739,Home Goods
+740,65.49,Product 740,Clothing
+741,34.65,Product 741,Toys
+742,14.68,Product 742,Clothing
+743,15.14,Product 743,Electronics
+744,35.16,Product 744,Sports
+745,44.08,Product 745,Sports
+746,81.45,Product 746,Clothing
+747,14.4,Product 747,Toys
+748,27.29,Product 748,Sports
+749,41.34,Product 749,Sports
+750,51.7,Product 750,Home Goods
+751,15.06,Product 751,Toys
+752,35.99,Product 752,Clothing
+753,44.03,Product 753,Sports
+754,37.42,Product 754,Electronics
+755,93.52,Product 755,Toys
+756,72.28,Product 756,Electronics
+757,7.77,Product 757,Electronics
+758,11.96,Product 758,Electronics
+759,33.77,Product 759,Clothing
+760,46.67,Product 760,Sports
+761,99.63,Product 761,Clothing
+762,72.41,Product 762,Electronics
+763,55.65,Product 763,Home Goods
+764,10.75,Product 764,Home Goods
+765,84.46,Product 765,Sports
+766,35.79,Product 766,Clothing
+767,43.43,Product 767,Home Goods
+768,22.54,Product 768,Clothing
+769,91.97,Product 769,Sports
+770,87.2,Product 770,Clothing
+771,19.62,Product 771,Electronics
+772,41.56,Product 772,Toys
+773,66.69,Product 773,Electronics
+774,28.47,Product 774,Electronics
+775,79.69,Product 775,Sports
+776,59.25,Product 776,Electronics
+777,11.99,Product 777,Sports
+778,65.71,Product 778,Toys
+779,43.08,Product 779,Electronics
+780,58.64,Product 780,Clothing
+781,9.92,Product 781,Sports
+782,25.02,Product 782,Sports
+783,22.44,Product 783,Home Goods
+784,98.62,Product 784,Toys
+785,65.51,Product 785,Home Goods
+786,83.7,Product 786,Clothing
+787,38.96,Product 787,Toys
+788,39.64,Product 788,Home Goods
+789,63.31,Product 789,Toys
+790,83.96,Product 790,Electronics
+791,81.94,Product 791,Clothing
+792,37.85,Product 792,Clothing
+793,81.74,Product 793,Sports
+794,38.35,Product 794,Sports
+795,74.16,Product 795,Toys
+796,98.61,Product 796,Home Goods
+797,61.98,Product 797,Electronics
+798,47.47,Product 798,Home Goods
+799,34.46,Product 799,Toys
+800,46.94,Product 800,Sports
+801,27.24,Product 801,Home Goods
+802,14.85,Product 802,Electronics
+803,68.88,Product 803,Electronics
+804,8.9,Product 804,Home Goods
+805,38.99,Product 805,Electronics
+806,90.88,Product 806,Toys
+807,2.96,Product 807,Home Goods
+808,10.21,Product 808,Electronics
+809,28.58,Product 809,Clothing
+810,15.13,Product 810,Sports
+811,17.59,Product 811,Clothing
+812,56.04,Product 812,Sports
+813,73.03,Product 813,Clothing
+814,61.8,Product 814,Toys
+815,44.65,Product 815,Electronics
+816,36.01,Product 816,Clothing
+817,84.01,Product 817,Home Goods
+818,34.69,Product 818,Toys
+819,29.78,Product 819,Toys
+820,27.43,Product 820,Clothing
+821,41.76,Product 821,Electronics
+822,11.85,Product 822,Home Goods
+823,18.89,Product 823,Home Goods
+824,70.78,Product 824,Sports
+825,69.96,Product 825,Home Goods
+826,26.54,Product 826,Clothing
+827,88.72,Product 827,Sports
+828,29.01,Product 828,Electronics
+829,48.61,Product 829,Home Goods
+830,35.0,Product 830,Toys
+831,61.6,Product 831,Clothing
+832,83.19,Product 832,Toys
+833,40.61,Product 833,Home Goods
+834,75.76,Product 834,Toys
+835,33.91,Product 835,Clothing
+836,63.45,Product 836,Electronics
+837,25.17,Product 837,Electronics
+838,27.39,Product 838,Toys
+839,26.69,Product 839,Home Goods
+840,65.44,Product 840,Toys
+841,45.08,Product 841,Clothing
+842,26.97,Product 842,Home Goods
+843,72.19,Product 843,Clothing
+844,88.8,Product 844,Home Goods
+845,87.22,Product 845,Clothing
+846,73.06,Product 846,Sports
+847,74.42,Product 847,Sports
+848,52.69,Product 848,Toys
+849,35.22,Product 849,Home Goods
+850,70.74,Product 850,Electronics
+851,64.1,Product 851,Electronics
+852,18.49,Product 852,Sports
+853,4.77,Product 853,Sports
+854,97.68,Product 854,Clothing
+855,30.27,Product 855,Electronics
+856,45.95,Product 856,Sports
+857,22.87,Product 857,Home Goods
+858,58.92,Product 858,Clothing
+859,29.28,Product 859,Toys
+860,98.27,Product 860,Home Goods
+861,71.26,Product 861,Electronics
+862,68.78,Product 862,Sports
+863,80.54,Product 863,Clothing
+864,53.65,Product 864,Home Goods
+865,85.47,Product 865,Home Goods
+866,70.99,Product 866,Home Goods
+867,80.17,Product 867,Home Goods
+868,27.52,Product 868,Toys
+869,16.16,Product 869,Electronics
+870,61.17,Product 870,Electronics
+871,91.56,Product 871,Clothing
+872,1.96,Product 872,Toys
+873,94.57,Product 873,Electronics
+874,99.76,Product 874,Toys
+875,6.05,Product 875,Clothing
+876,12.56,Product 876,Home Goods
+877,83.4,Product 877,Sports
+878,44.84,Product 878,Toys
+879,93.95,Product 879,Home Goods
+880,71.12,Product 880,Home Goods
+881,13.65,Product 881,Toys
+882,39.76,Product 882,Toys
+883,54.73,Product 883,Electronics
+884,51.6,Product 884,Clothing
+885,63.72,Product 885,Sports
+886,71.41,Product 886,Electronics
+887,17.2,Product 887,Toys
+888,75.33,Product 888,Clothing
+889,15.79,Product 889,Home Goods
+890,87.59,Product 890,Toys
+891,67.2,Product 891,Clothing
+892,52.71,Product 892,Home Goods
+893,95.2,Product 893,Toys
+894,73.6,Product 894,Electronics
+895,6.75,Product 895,Electronics
+896,10.12,Product 896,Electronics
+897,32.31,Product 897,Home Goods
+898,84.88,Product 898,Electronics
+899,83.49,Product 899,Electronics
+900,4.87,Product 900,Electronics
+901,54.13,Product 901,Toys
+902,23.28,Product 902,Sports
+903,7.68,Product 903,Sports
+904,84.87,Product 904,Clothing
+905,91.16,Product 905,Clothing
+906,73.86,Product 906,Electronics
+907,56.86,Product 907,Electronics
+908,29.16,Product 908,Home Goods
+909,17.41,Product 909,Clothing
+910,52.8,Product 910,Electronics
+911,7.83,Product 911,Electronics
+912,56.29,Product 912,Home Goods
+913,51.66,Product 913,Sports
+914,54.35,Product 914,Home Goods
+915,14.58,Product 915,Sports
+916,30.05,Product 916,Clothing
+917,37.35,Product 917,Sports
+918,32.92,Product 918,Electronics
+919,2.92,Product 919,Electronics
+920,89.21,Product 920,Sports
+921,90.07,Product 921,Electronics
+922,80.76,Product 922,Toys
+923,51.92,Product 923,Sports
+924,48.42,Product 924,Home Goods
+925,68.03,Product 925,Home Goods
+926,77.09,Product 926,Toys
+927,80.67,Product 927,Toys
+928,70.49,Product 928,Clothing
+929,44.54,Product 929,Clothing
+930,13.37,Product 930,Clothing
+931,54.17,Product 931,Home Goods
+932,91.61,Product 932,Toys
+933,50.04,Product 933,Clothing
+934,8.07,Product 934,Toys
+935,9.32,Product 935,Electronics
+936,33.07,Product 936,Clothing
+937,55.96,Product 937,Home Goods
+938,23.37,Product 938,Toys
+939,98.95,Product 939,Sports
+940,12.11,Product 940,Home Goods
+941,6.0,Product 941,Home Goods
+942,62.77,Product 942,Sports
+943,60.14,Product 943,Home Goods
+944,78.65,Product 944,Sports
+945,76.64,Product 945,Home Goods
+946,28.76,Product 946,Sports
+947,37.98,Product 947,Clothing
+948,8.7,Product 948,Sports
+949,35.69,Product 949,Home Goods
+950,95.48,Product 950,Toys
+951,71.22,Product 951,Electronics
+952,41.33,Product 952,Electronics
+953,51.3,Product 953,Clothing
+954,23.81,Product 954,Sports
+955,23.82,Product 955,Toys
+956,3.84,Product 956,Electronics
+957,13.54,Product 957,Sports
+958,48.92,Product 958,Electronics
+959,2.64,Product 959,Electronics
+960,21.18,Product 960,Clothing
+961,25.28,Product 961,Home Goods
+962,60.73,Product 962,Electronics
+963,67.02,Product 963,Electronics
+964,54.88,Product 964,Toys
+965,99.76,Product 965,Toys
+966,83.21,Product 966,Sports
+967,50.84,Product 967,Clothing
+968,93.16,Product 968,Clothing
+969,4.01,Product 969,Clothing
+970,95.14,Product 970,Sports
+971,24.51,Product 971,Sports
+972,18.45,Product 972,Clothing
+973,97.53,Product 973,Home Goods
+974,29.8,Product 974,Electronics
+975,36.41,Product 975,Home Goods
+976,82.11,Product 976,Electronics
+977,46.2,Product 977,Clothing
+978,54.5,Product 978,Clothing
+979,39.98,Product 979,Home Goods
+980,4.85,Product 980,Sports
+981,24.65,Product 981,Clothing
+982,7.22,Product 982,Toys
+983,59.7,Product 983,Home Goods
+984,30.47,Product 984,Home Goods
+985,11.71,Product 985,Home Goods
+986,91.37,Product 986,Toys
+987,87.4,Product 987,Electronics
+988,76.43,Product 988,Electronics
+989,48.96,Product 989,Clothing
+990,2.36,Product 990,Clothing
+991,31.46,Product 991,Toys
+992,44.44,Product 992,Home Goods
+993,44.75,Product 993,Home Goods
+994,72.44,Product 994,Sports
+995,46.78,Product 995,Electronics
+996,75.11,Product 996,Clothing
+997,73.71,Product 997,Clothing
+998,16.33,Product 998,Toys
+999,74.39,Product 999,Sports
+1000,17.55,Product 1000,Toys
